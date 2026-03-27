@@ -1,0 +1,13 @@
+{
+    "app_config": {
+        "name": "视频解析工具",
+        "tray_title": "视频解析工具",
+        "description": "视频解析工具是一个视频解析下载工具",
+        "download_path": "",
+        "repository_url": "https://github.com/YunLvCC/Video-parsing-tool"
+    },
+    "logging": {
+        "level": "INFO",
+        "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+    }
+}
